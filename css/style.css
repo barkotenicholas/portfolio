@@ -14,3 +14,17 @@
 p.font-weight-light{
     font-weight:100;
 }
+.carddetails{
+    width: 20rem;
+    background: #F8F9FA;
+    border-radius: 1rem;
+    margin-top: 50px;
+    margin-bottom: 50px;
+}
+.bottom-dotted{
+    border: 0.6px dashed grey
+}
+.aboutmesection{
+    margin-top: 30px;
+    margin-bottom: 50px;
+}
