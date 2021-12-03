@@ -1,0 +1,15 @@
+.content-info{
+    margin: 100px 0;
+}
+.content-image{
+    margin: 40px 0;
+}
+
+
+.btn-first:hover ,.btn-second:hover{
+    background: var(btn-primary);
+    color: white;
+}
+p.font-weight-light{
+    font-weight:100;
+}
