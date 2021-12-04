@@ -11,7 +11,10 @@ html,body{
     margin: 40px 0;
 }
 
+.btn-first,.btn-second{
+    margin: 40px 0;
 
+}
 .btn-first:hover ,.btn-second:hover{
     background: var(btn-primary);
     color: white;
